@@ -1,0 +1,16 @@
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\Views\MainView.g.cs
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\App.g.cs
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\Views\MainView.baml
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\WpfApplication.g.resources
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\WpfApplication.csproj.CoreCompileInputs.cache
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\WpfApplication.pdb
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache

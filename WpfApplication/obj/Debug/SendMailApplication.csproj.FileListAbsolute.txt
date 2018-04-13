@@ -1,0 +1,16 @@
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\Views\MainView.g.cs
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\App.g.cs
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\SendMailApplication_MarkupCompile.cache
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\SendMailApplication_MarkupCompile.lref
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\bin\Debug\SendMailApplication.exe.config
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\bin\Debug\SendMailApplication.exe
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\bin\Debug\SendMailApplication.pdb
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\Views\MainView.baml
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\SendMailApplication.g.resources
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\SendMailApplication.csproj.GenerateResource.Cache
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\SendMailApplication.csproj.CoreCompileInputs.cache
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\SendMailApplication.exe
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\SendMailApplication.pdb
+C:\Users\z00s109036\source\repos\samplecode_WpfApplication-0.2\WpfApplication\obj\Debug\SendMailApplication.csprojResolveAssemblyReference.cache
